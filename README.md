@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Maksim
-<b>I'm a FrontEnd Developer</b>
-<hr/>
+I'm a FrontEnd Developer
 
-<!--
-**EdmondDantess/EdmondDantess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
