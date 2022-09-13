@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Maksim
+<b>I'm a FrontEnd Developer</b>
+<hr/>
 
 <!--
 **EdmondDantess/EdmondDantess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +12,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://t.me/EdmondDan
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondDantess&layout=compact)
