@@ -2,7 +2,7 @@
 I'm a FrontEnd Developer
 https://edmonddantess.github.io/portfolioinweb/
 
-###Technology stack
+### Technology stack
 
 HTML, CSS, JS + React/Redux/Toolkit, TypeScript, Git
 
