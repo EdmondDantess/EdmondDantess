@@ -2,6 +2,9 @@
 I'm a FrontEnd Developer
 https://edmonddantess.github.io/portfolioinweb/
 
+###Technology stack
+
+HTML, CSS, JS + React/Redux/Toolkit, TypeScript, Git
 
 Here are some ideas to get you started:
 
