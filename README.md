@@ -4,7 +4,7 @@ https://edmonddantess.github.io/portfolioinweb/
 
 ### Technology stack
 
-HTML, CSS, JS + React/Redux/Toolkit, TypeScript, Git
+HTML, CSS, SCSS, TypeScript, JS, React/Redux/Toolkit, Git, Axios/Rest Api, Unittest/Jest, Storybook, MaterialUI, Formik
 
 Here are some ideas to get you started:
 
