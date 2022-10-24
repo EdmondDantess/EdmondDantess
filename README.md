@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Maksim
-I'm a FrontEnd Developer
+I'm a ###Front-End Developer
 https://edmonddantess.github.io/portfolioinweb/
 
 ### Technology stack
