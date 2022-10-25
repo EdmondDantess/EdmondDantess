@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondDantess&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?EdmondDantess=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
