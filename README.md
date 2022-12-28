@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Maksim</h1> 
+<h1><i>Hi there 👋, I'm</i> Maksim</h1> 
 
 ### I'm a <a href="https://edmonddantess.github.io/portfolioinweb/">Front-End Developer<img  src="https://img.icons8.com/stickers/512/mouse-left-click.png" alt="click here" width='24'/></a>            
 
