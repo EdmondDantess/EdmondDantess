@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: https://t.me/EdmondDan
-
+<img src="contributions.svg">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondDantess&layout=compact)
