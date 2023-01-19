@@ -2,8 +2,6 @@
 
 ### I'm a <a href="https://edmonddantess.github.io/portfolioinweb/">Front-End Developer<img  src="https://img.icons8.com/stickers/512/mouse-left-click.png" alt="click here" width='24'/></a>            
 
-
-
 ### Technology stack:
 
 <div style={{display: 'flex'}}>
@@ -29,6 +27,5 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: https://t.me/EdmondDan
-<img src="contributions.svg">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondDantess&layout=compact)
