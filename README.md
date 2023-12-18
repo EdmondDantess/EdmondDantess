@@ -24,7 +24,8 @@
 
 Here are some ideas to get you started:
 
-
 - 📫 How to reach me: https://t.me/EdmondDan
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondDantess&layout=compact)
+![Codewars](https://github.r2v.ch/codewars?user=EdmondDantess&hide_clan=true&theme=gradient_light_by_level)
+
